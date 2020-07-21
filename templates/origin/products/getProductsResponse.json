@@ -1,0 +1,12 @@
+{
+  "predicates": [{ "contains": { "path": "/products" } }],
+  "responses": [
+    {
+      "is": {
+        "body": {
+          "message": "hit stub"
+        }
+      }
+    }
+  ]
+}
